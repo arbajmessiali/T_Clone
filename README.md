@@ -15,3 +15,15 @@ A twitter clone using Java, Spring Boot, PostgresSQL and React
 I could have used MySQL but the online community preferred me to use PostgreSQL as it is free and commmunity friendly. (Learning it from scratch!)
 
 Haven't set up React as I don't know anything about it. Learning it for the time being.
+
+
+## Day 2
+
+1. Fix PostgreSQL connection and privilege issues
+2. Create Role class to manage role privileges
+3. Create user class to manage user data
+
+## Day 3
+
+1. Set up repos
+2. Test them for data addition
